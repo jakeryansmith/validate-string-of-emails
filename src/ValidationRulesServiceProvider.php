@@ -1,6 +1,6 @@
 <?php
 
-namespace JakeRyanSmith\ValidationRules;
+namespace JakeRyanSmith\ValidateStringOfEmails;
 
 use Illuminate\Support\ServiceProvider;
 

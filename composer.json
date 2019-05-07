@@ -16,6 +16,11 @@
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "JakeRyanSmith\\ValidateStringOfEmails\\": "src"
+        }
+    },
     "require": {
         "php": "^7.2",
         "illuminate/support": "^5.5"

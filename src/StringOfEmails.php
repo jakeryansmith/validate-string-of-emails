@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Rules;
+namespace JakeRyanSmith\ValidateStringOfEmails;
 
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Contracts\Validation\Rule;
