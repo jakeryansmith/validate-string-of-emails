@@ -1,0 +1,23 @@
+{
+    "name": "jakeryansmith/validate-string-of-emails",
+    "description": "Validate a delimiter-seperated list of emails.",
+    "keywords": [
+        "laravel",
+        "emails",
+        "validation"
+    ],
+    "homepage": "https://github.com/jakeryansmith/validate-string-of-emails",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jake Ryan Smith",
+            "email": "jakeryansmith@gmail.com",
+            "homepage": "https://jakeryansmith.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "illuminate/support": "^5.5"
+    }
+}
