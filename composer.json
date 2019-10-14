@@ -1,6 +1,6 @@
 {
     "name": "jakeryansmith/validate-string-of-emails",
-    "description": "Validate a delimiter-seperated list of emails.",
+    "description": "A Laravel validator for delimiter-separated list of emails.",
     "keywords": [
         "laravel",
         "emails",
