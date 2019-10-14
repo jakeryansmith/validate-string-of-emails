@@ -1,4 +1,4 @@
-# A validation rule for checking a string of delimiter separated emails.
+# A Laravel validation rule for checking a string of delimiter separated emails.
 
 
 You can install the package via composer:
