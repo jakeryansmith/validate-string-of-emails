@@ -1,7 +1,4 @@
-# A validation rule for checking a string of delimiter seperated emails.
-
-<!-- [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-validation-rules.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-validation-rules)
-[![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-validation-rules.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-validation-rules) -->
+# A validation rule for checking a string of delimiter separated emails.
 
 
 You can install the package via composer:
@@ -10,7 +7,7 @@ You can install the package via composer:
 composer require jakeryansmith/laravel-validate-emails
 ```
 
-You can validate a string of emails seperated by a comma.
+You can validate a string of emails separated by a comma.
 
 ```php
 $request['emails'] = 'dwightschrute@dundermifflin.com,jimhalpert@dundermifflin.com';
